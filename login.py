@@ -42,7 +42,7 @@ frame = tk.CTkFrame(master=window1)
 frame.pack(padx=50, pady=20, fill="both", expand=True)
 
 label1 = tk.CTkLabel(
-    master=frame, text="Welcome Zenith, ", font=("Times New Roman", 21), )
+    master=frame, text="Welcome Dear!, ", font=("Times New Roman", 21), )
 label1.pack(padx=10, pady=12, anchor="w")
 
 label2 = tk.CTkLabel(master=frame, text="Login to Continue",)
